@@ -1,0 +1,10 @@
+Board stackup
+4 copper layers
+
+Cu:  18 um
+Iso: Rogers 4350B 250 um
+Cu:  18 um
+Iso: Rogers 4450F 306 um
+Cu:  18 um
+Iso: Rogers 4350B 250 um
+Cu:  18 um

@@ -1,4 +1,4 @@
-update=tor 11 mar 2021 13:16:24
+update=tor 12 aug 2021 13:48:28
 version=1
 last_client=kicad
 [general]
@@ -24,7 +24,7 @@ RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
 MinTrackWidth=0.15
 MinViaDiameter=0.3
-MinViaDrill=0.15
+MinViaDrill=0.09999999999999999
 MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
@@ -243,8 +243,8 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=Traces
-Clearance=0.54
-TrackWidth=0.31642
+Clearance=0.3
+TrackWidth=0.281959
 ViaDiameter=0.3
 ViaDrill=0.15
 uViaDiameter=0.3
