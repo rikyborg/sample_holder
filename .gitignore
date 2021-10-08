@@ -1,3 +1,6 @@
+# generated gerber and drill files
+gerber/
+
 # https://gist.github.com/jmptable/3eca532fd16eb6abfe6b6379dc1146d4
 # Reports
 *.rpt
